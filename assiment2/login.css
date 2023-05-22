@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 1200px;
+    padding-left: 150px;
+}
+
+
+.container {
+    width: 1440px;
+}
+
+.nav-bar {
+    background-color: #9EC7F7;
+    width: 1440px;
+    height: 116px;
+    position: relative;
+    display: flex;
+}
+
+.logo{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.product-img{
+    width: 1440px;
+    height: 808px;
+    background-image: url(./img/DEMO\ đăng\ nhập.png);
+    padding-top: 50px;
+    
+}
+
+.login{
+    background-color: #9EC7F6;
+    width: 511px;
+    height: 611px;
+    margin-left: 83px; 
+}
+
+input{
+    border-radius: 10px;
+    width: 409px;
+    height: 46px;
+    margin-top: 20px;
+    margin-left: 35px;
+    padding-left: 20px;
+}
+
+h1{
+    padding-top: 26px;
+    padding-left: 35px;
+}
+
+p{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.duytri{
+    margin-left: 300px;
+    height: 16px;
+    width: 16px;
+}
+
+button{
+    background-color: #9EC7F7;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 409px;
+    height: 46px;
+}
+
+.or{
+    margin-left: 220px;
+}
+
+img{
+    margin-left: 30px;
+}
+
